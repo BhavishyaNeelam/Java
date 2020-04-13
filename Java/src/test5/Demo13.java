@@ -21,7 +21,7 @@ public String toString()
 		Demo13 demo1=new Demo13(88,"a");
 		Demo13 demo2=new Demo13(55,"b");
 		Dem dem=new Dem();
-		Collections.sor
+		Collections.sort
 		dem.compare(demo1, demo2)
 	}
 	public class Dem implements Comparator{

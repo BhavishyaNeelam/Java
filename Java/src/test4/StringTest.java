@@ -6,8 +6,8 @@ public class StringTest {
 		String joinString = String.join("*", "java", "programming","language");
 		String s1="JAVA", s2="java",s3="Java";
 		s1.toLowerCase();
-		System.out.println(s1.toLowerCase());
-		s3=s3.replace('J','j');
+		//System.out.println(s1.toLowerCase());
+		//s3=s3.replace('J','j');
 		System.out.println(joinString);
 		System.out.println(s1);
 		System.out.println(s2);

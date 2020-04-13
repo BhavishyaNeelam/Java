@@ -16,9 +16,9 @@ public class TestDemo1 {
 		for (Object object : strings) {
 			System.out.println(object);	
 		}//System.out.println(string);
-/*for (String string : strings) {
+for (String string : strings) {
 	System.out.println(string);
 }
-*/	}
+	}
 
 }
